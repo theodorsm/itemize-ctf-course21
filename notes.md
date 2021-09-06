@@ -1,6 +1,7 @@
 # CTF KURS
 
 #### CTF'orno? Fra scan til pwn.
+#### https://github.com/theodorsm/itemize-ctf-course21
 
 ```
                                                                                     ................................................................................
@@ -119,11 +120,20 @@ Noen pico el. web oppgaver?
 
 ## Resurrser
 
-hackthebox.eu
-overthewire.org
-https://missing.csail.mit.edu/
-https://ctf101.org/web-exploitation/overview/
+- https://hackthebox.eu
+    - Litt mer utfordrende, maskiner tilgjengelige for pwn.
+- https://overthewire.org
+    - Wargames, god start på UNIX, web, binary pwn.
+- https://picoctf.org
+    - Starter CTF
+- https://ctf101.org
+- https://missing.csail.mit.edu/
+- https://ctf101.org/web-exploitation/overview/
 
-LiveOverflow (YouTube)
-Jon Hammond (YouTube)
-IppSec (YouTube)
+#### YouTube kanaler:
+- *LiveOverflow*
+    - div. oppgaver og cybersecurity stuff
+- *Jon Hammond*
+    - Gjennomgang av CTF'er, div tutorials
+- *IppSec*
+    - HTB gud!
